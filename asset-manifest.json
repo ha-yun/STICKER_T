@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/STICKER_T/static/css/main.8369d11e.css",
+    "main.js": "/STICKER_T/static/js/main.4dc7ad8b.js",
+    "static/js/787.29ffb4e3.chunk.js": "/STICKER_T/static/js/787.29ffb4e3.chunk.js",
+    "static/media/kids.png": "/STICKER_T/static/media/kids.496fa45692ed8a72e2d8.png",
+    "static/media/colorful.jpg": "/STICKER_T/static/media/colorful.ee9ee8dd9aadaf72767e.jpg",
+    "static/media/aurora.jpg": "/STICKER_T/static/media/aurora.af1b26c3fa5f4ae63bd5.jpg",
+    "static/media/cloud.jpg": "/STICKER_T/static/media/cloud.aee1f8d0e90df38ed6de.jpg",
+    "static/media/group.png": "/STICKER_T/static/media/group.3d9b6018468e5ccc422b.png",
+    "static/media/controller.png": "/STICKER_T/static/media/controller.4c465e9a5db367630158.png",
+    "static/media/cat.png": "/STICKER_T/static/media/cat.d2901a796dc2640e8382.png",
+    "static/media/pen.png": "/STICKER_T/static/media/pen.75e362153c84128c00f7.png",
+    "static/media/heart.png": "/STICKER_T/static/media/heart.854d669420ce5942daf2.png",
+    "static/media/google.png": "/STICKER_T/static/media/google.2534471f335de902c01e.png",
+    "static/media/apple.png": "/STICKER_T/static/media/apple.30fbfe1f75b3a9f210e3.png",
+    "static/media/Title.png": "/STICKER_T/static/media/Title.66135c8d3c191d4ce947.png",
+    "index.html": "/STICKER_T/index.html",
+    "main.8369d11e.css.map": "/STICKER_T/static/css/main.8369d11e.css.map",
+    "main.4dc7ad8b.js.map": "/STICKER_T/static/js/main.4dc7ad8b.js.map",
+    "787.29ffb4e3.chunk.js.map": "/STICKER_T/static/js/787.29ffb4e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8369d11e.css",
+    "static/js/main.4dc7ad8b.js"
+  ]
+}
