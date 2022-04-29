@@ -49,8 +49,8 @@ let menu = document.getElementById("menu")?.style.display;
 let menubar = document.querySelectorAll<HTMLElement>('.menubar > a');
 
 // accordian menu
+menubar.forEach((val)=>{val.style.display = 'none'});
 const menuClick = () => {
-    menubar.forEach((val)=>{val.style.display = 'none'});
     if (menubar[0].style.display === 'none'){
         menubar.forEach((val)=>{val.style.display = 'block'});
     }else{
