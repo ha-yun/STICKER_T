@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/STICKER_T/static/css/main.8369d11e.css",
-    "main.js": "/STICKER_T/static/js/main.4dc7ad8b.js",
+    "main.css": "/STICKER_T/static/css/main.1e57a3fe.css",
+    "main.js": "/STICKER_T/static/js/main.4c8f3e9a.js",
     "static/js/787.29ffb4e3.chunk.js": "/STICKER_T/static/js/787.29ffb4e3.chunk.js",
     "static/media/kids.png": "/STICKER_T/static/media/kids.496fa45692ed8a72e2d8.png",
     "static/media/colorful.jpg": "/STICKER_T/static/media/colorful.ee9ee8dd9aadaf72767e.jpg",
@@ -16,12 +16,12 @@
     "static/media/apple.png": "/STICKER_T/static/media/apple.30fbfe1f75b3a9f210e3.png",
     "static/media/Title.png": "/STICKER_T/static/media/Title.66135c8d3c191d4ce947.png",
     "index.html": "/STICKER_T/index.html",
-    "main.8369d11e.css.map": "/STICKER_T/static/css/main.8369d11e.css.map",
-    "main.4dc7ad8b.js.map": "/STICKER_T/static/js/main.4dc7ad8b.js.map",
+    "main.1e57a3fe.css.map": "/STICKER_T/static/css/main.1e57a3fe.css.map",
+    "main.4c8f3e9a.js.map": "/STICKER_T/static/js/main.4c8f3e9a.js.map",
     "787.29ffb4e3.chunk.js.map": "/STICKER_T/static/js/787.29ffb4e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8369d11e.css",
-    "static/js/main.4dc7ad8b.js"
+    "static/css/main.1e57a3fe.css",
+    "static/js/main.4c8f3e9a.js"
   ]
 }
